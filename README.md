@@ -37,5 +37,7 @@ Would you like a portfolio image or graphic to go with this post?
 
 OUTPUT
 ----------------------------------------------------------
+![output](https://github.com/user-attachments/assets/c487989f-af15-4e75-8336-499edaee53ed)
+
 
 ![Screenshot 2025-04-25 232840](https://github.com/user-attachments/assets/ccd5d6ae-fd65-4ac7-a3b8-d1a4fedd690d)
